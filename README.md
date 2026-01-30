@@ -1,5 +1,5 @@
-it is a Remake game of Google Dino game that i made from scrach throw a totorial and 
-using Ai <br>
-its a simple infinite runner game <br>
-that i made using unity and C# <br>
-You Can Download And Install Its a Apk 
+1.it is a Remake game of Google Dino game that i made from scrach throw a totorial and 
+2.using Ai <br>
+3.its a simple infinite runner game <br>
+4.that i made using unity and C# <br>
+5.You Can Download And Install Its a Apk 
